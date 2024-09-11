@@ -2,4 +2,4 @@ test file
 main test
 board test
 board test
-main test
+main test test
